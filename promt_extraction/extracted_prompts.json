@@ -1,0 +1,706 @@
+[
+    {
+        "prompt": "roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none.->",
+        "completion": " The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "prompt": "roof_gaps is none. potential is none. roof_material is tiles.->",
+        "completion": " There were no gaps under tiles, and so no Potential Roost Features (PRFs) were present."
+    },
+    {
+        "prompt": "roof_gaps is none. potential is none. roof_material is tiles.->",
+        "completion": " The ridge tiles and mortar were intact with no gaps, offering no PRFs."
+    },
+    {
+        "prompt": "wall_material is brick. evidence is none.->",
+        "completion": " The rough bricks provide an ideal substrate for bat droppings to adhere to and these would have been easily visible, but no evidence was found."
+    },
+    {
+        "prompt": "wall_material is cladding. wall_cracks is none. potential is none.->",
+        "completion": " The cladding on the house were intact with no gaps and no PRFs present."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "prompt": "evidence is none. potential is negligible.->",
+        "completion": " No potential roost features or evidence of bat activity or presence were identified, and the building was considered to have negligible bat roosting potential."
+    },
+    {
+        "prompt": "building_condition is very good. wall_cracks is none. roof_gaps is none.->",
+        "completion": " The building was occupied and in very good condition with no significant structural issues such as cracks in the walls and gaps in the roof."
+    },
+    {
+        "prompt": "building_type is garage. roof_form is pitched. roof_condition is excellent. roof_material is overlapping tiles. roof_gaps is none.->",
+        "completion": " The garage pitched roof was in excellent weather-tight condition and was constructed of overlapping tiles, the method of construction meant that these tightly interlocking tiles had no gaps between them."
+    },
+    {
+        "prompt": "roof_gaps is none. potential is none. roof_material is tiles.->",
+        "completion": " Inspection found no gaps beneath ridge on the hipped roof of the garage or its roof tiles and it was clear that there were no Potential Roost Features (PRFs)."
+    },
+    {
+        "prompt": "conclusion. building_type is garage. potential is none.->",
+        "completion": " It was concluded that the main body of the garage roof offered no roosting potential."
+    },
+    {
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none.->",
+        "completion": " The walls were intact and had no PRFs or gaps; these had no roosting potential or access to the internal spaces."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " Finally, the flat surfaces such as paving slabs around the building were thoroughly and systematically searched for evidence of bat activity and no evidence of bats was present."
+    },
+    {
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles.->",
+        "completion": " The house has a pitched hip roof with slate tiles."
+    },
+    {
+        "prompt": "building_type is conservatory. potential is none.->",
+        "completion": " The conservatory has no bat potential."
+    },
+    {
+        "prompt": "roof_gaps is none. wall_cracks is none. potential is none.->",
+        "completion": " There are no gaps or crevices, so no potential roost features (PRFs) were present."
+    },
+    {
+        "prompt": "roof_material is slates. roof_gaps is none. potential is none.->",
+        "completion": " There were no gaps under the slates, so no potential roost features present."
+    },
+    {
+        "prompt": "roof_material is tiles. roof_gaps is small. potential is some. roof_form is pitched.->",
+        "completion": " There were small gaps under some of the ridge tiles towards the pitched roof which might be suitable for bats."
+    },
+    {
+        "prompt": "potential is borderline.->",
+        "completion": " Roosting potential was considered borderline."
+    },
+    {
+        "prompt": "roof_form is hipped. roof_condition is good.->",
+        "completion": " The main hipped roof was in good condition."
+    },
+    {
+        "prompt": "roof_material is slates. roof_gaps is none. potential is none.->",
+        "completion": " Slates were tight fitting with no gaps, and the roof had some moss coverage which prevent bats from having any access."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " No evidence of potential roost features was identified."
+    },
+    {
+        "prompt": "roof_material is tiles. roof_gaps is some.->",
+        "completion": " Small gaps were apparent under some of the tiles."
+    },
+    {
+        "prompt": "potential is borderline.->",
+        "completion": " Bat roosting potential considered borderline."
+    },
+    {
+        "prompt": "potential is negligible.->",
+        "completion": " Roosting potential considered negligible."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " A thorough and systematic search of all the flat surfaces and grounds within the internal spaces were searched to look for evidence of current or historic bat use and activity (e.g., droppings, discarded prey items) and none were found."
+    },
+    {
+        "prompt": "potential is none.->",
+        "completion": " No potential roost features present."
+    },
+    {
+        "prompt": "potential is low. evidence is none.->",
+        "completion": " Although minor potential roost features were identified, there was a lack of overall suitability of the roof spaces and a lack of evidence of bat activity or presence."
+    },
+    {
+        "prompt": "potential is negligible.->",
+        "completion": " Roosting potential was therefore considered negligible."
+    },
+    {
+        "prompt": "roof_material is slate. roof_condition is good. roof_gaps is some.->",
+        "completion": " The building had a slate roof which was in relatively good condition for the most part, with relatively few slipped or slightly lifted slates."
+    },
+    {
+        "prompt": "potential is some.->",
+        "completion": " These could conceivably provide access to bats."
+    },
+    {
+        "prompt": "roof_gaps is clear.->",
+        "completion": " There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "prompt": "wall_cracks is many. potential is some.->",
+        "completion": " However, there were some ventilation holes located within the walls, which in theory could allow access for bats."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " Thorough inspection of the external features identified no bat droppings, or other such signs were identified anywhere around the building at all."
+    },
+    {
+        "prompt": "potential is numerous. roof_material is slate tiles. roof_gaps is some.->",
+        "completion": " To summarise, the building had numerous potential bat access points: beneath some lifted slates on the roof, especially those along the ridges for ventilation, and within the eaves of all along the building on the northern and southern aspects."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " No signs of bat activity were identified anywhere around the building."
+    },
+    {
+        "prompt": "bat_droppings is some. evidence is some. potential is some.->",
+        "completion": " This was confirmed by the presence of a small concentrated scattering of bat droppings underneath the ridge clearly showing a place where small numbers of bats have previously roosted."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " Similarly, no signs of bat activity could be seen anywhere here."
+    },
+    {
+        "prompt": "roof_material is corrugated sheets. potential is none.->",
+        "completion": " An inspection of the corrugated roof revealed a lack of suitability for bats due to a complete lack of access points."
+    },
+    {
+        "prompt": "summary. potential is some.->",
+        "completion": " To summarise, the building had a number of potential bat access points."
+    },
+    {
+        "prompt": "bat_droppings is small.->",
+        "completion": " This comprised a small collection of droppings inside the building on the floor."
+    },
+    {
+        "prompt": "wall_material is brick. evidence is none.->",
+        "completion": " The brick-built walls provide an ideal substate for bat activity to adhere to (e.g., droppings, discarded prey items), but no evidence was found."
+    },
+    {
+        "prompt": "roof_condition is good. roof_gaps is none.->",
+        "completion": " The roofs on top of the bay windows were in good condition with no gaps or missing tiles."
+    },
+    {
+        "prompt": "wall_cracks is some.->",
+        "completion": " Small gaps were apparent in gaps in the mortar."
+    },
+    {
+        "prompt": "wall_gaps is some. potential is some.->",
+        "completion": " These gaps are large enough for bats and offer access into the internal space."
+    },
+    {
+        "prompt": "potential is borderline.->",
+        "completion": " Roosting potential borderline."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " A thorough and comprehensive search of the ground and flat surfaces around the building found no evidence of bat activity (e.g., discarded prey items, droppings) or presence."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " These were all thoroughly searched but no evidence was found."
+    },
+    {
+        "prompt": "roof_condition is good, roof_material is interlocking slate tiles. potential is none.->",
+        "completion": " The roof was in good condition and had tightly interlocking slates and negligible possibility for bats was present around any flashings or fascias and soffits."
+    },
+    {
+        "prompt": "roof_gaps is some. roof_material is slate tiles. evidence is none.->",
+        "completion": " Small gaps were identified under the tiles along the roof verge but a close-up thorough inspection from inside the loft found no evidence of bat activity or presence."
+    },
+    {
+        "prompt": "potential is negligible.->",
+        "completion": " Therefore, overall the building was considered to have negligible bat roosting potential."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_condition is good. roof_material is slate tiles. roof_gaps is none.->",
+        "completion": " The pitched roof of the residential property was in very good condition, with very tight tiles and no cracked or missing tiles."
+    },
+    {
+        "prompt": "wall_material is brick. wall_condition is good. poterntial is none.->",
+        "completion": " The brickwork appeared in good condition and offered no PRFs."
+    },
+    {
+        "prompt": "wall_material is brck. wall_condition is good. wall_cracks is none. potential is none.->",
+        "completion": " The redbrick walls of the building were in good condition, with no gaps in the mortar or cracks in the walls offering no PRFs."
+    },
+    {
+        "prompt": "roof_condition is good. roof_gaps is none. potential is none.->",
+        "completion": " The dormer roof was in good condition with no gaps in tiles or cracks, with the flashing appearing well sealed offering no PRFs."
+    },
+    {
+        "prompt": "roof_form is flat. building_type is conservatory. roof_confition is good. potential is none.->",
+        "completion": " The flat roof of the conservatory was in good condition and offered no PRFs."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " No staining or other evidence of bats was found in these areas."
+    },
+    {
+        "prompt": "building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is medium.->",
+        "completion": " The concrete shed was in relatively good condition, however the internal space was easily accessible to bats due to the gaps at the top of the walls."
+    },
+    {
+        "prompt": "potential is none.->",
+        "completion": " No PRFs were identified in the various structures."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " The survey of the site also showed no evidence of bat activity, clearly showing that bats had not been using the site."
+    },
+    {
+        "prompt": "roof_form is flat. roof_condition is satisfactory. roof_gaps is none.->",
+        "completion": " The flat roofs were in generally satisfactory condition with no gaps present."
+    },
+    {
+        "prompt": "wall_cracks is some. wall_material is stone. potential is none.->",
+        "completion": " Small gaps in the mortar between the coping stones were noted, these were examined and found to offer no roosting potential."
+    },
+    {
+        "prompt": "wall_condition is good. wall_cracks is none.->",
+        "completion": " The external walls generally intact with no missing or cracked mortar in the apparent."
+    },
+    {
+        "prompt": "roof_material is slate tiles. roof_condition is good. potential is none.->",
+        "completion": " The tiles on roof were equally well mortared and offered no roosting opportunities."
+    },
+    {
+        "prompt": "potential is none.->",
+        "completion": " There were no apparent roost features or access for bats to the internal space."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " No evidence of bat activity was found externally or internally."
+    },
+    {
+        "prompt": "roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none.->",
+        "completion": " The pitched and hipped roof was in generally satisfactory condition with no apparent gaps under ridge tiles or slipped, cracked or missing roof tiles or other Potential Roost Features (PRFs) or significant opportunities for roosting or access to the internal space."
+    },
+    {
+        "prompt": "roof_form is flat. roof_condtion is good. potential is none.->",
+        "completion": " The flat roof areas were generally intact with no roosting potential and no access for bats to the internal spaces."
+    },
+    {
+        "prompt": "wall_condition is okay. wall_cracks is some. potential is medium.->",
+        "completion": " The external walls generally intact although a number of cracks and missing mortar in the pointing were apparent."
+    },
+    {
+        "prompt": "potential is none. evidence is none.->",
+        "completion": " No PRFs were identified across the building and no evidence of bat activity was found within either building."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_material is slate tiles.->",
+        "completion": " All buildings had pitched roofs of overlapping slate tiles."
+    },
+    {
+        "prompt": "potential is medium.->",
+        "completion": " All buildings were considered to have at least some potential for roosting bats."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_material is slate tiles. potential is none.->",
+        "completion": " The building had pitched roof with modern interlocked tiles offering no Potential Roost Feature (PRFs) for bats."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " No signs of bat activity were seen to be present."
+    },
+    {
+        "prompt": "potential is none. evidence is none.->",
+        "completion": " Based on a full search around the inside of the property, a lack of signs and suitable roosting locations, it was considered that the building had negligible bat roosting potential."
+    },
+    {
+        "prompt": "wall_material is stone. roof_form is pitched. roof_material is stone and slate.->",
+        "completion": " The building comprised a traditional stone walled structure with a pitched stone tiled and slate roof."
+    },
+    {
+        "prompt": "wall_cracks is many. potential is high.->",
+        "completion": " The walls on this structure were not sealed at all."
+    },
+    {
+        "prompt": "wall_condition is bad. potential is high.->",
+        "completion": " There was extensive pointing missing around the stones."
+    },
+    {
+        "prompt": "potential is high. wall_cracks is many.->",
+        "completion": " In addition, there were clear ventilation holes in the walls which opened up the possibility of bats flying directly into the structure and roosting inside."
+    },
+    {
+        "prompt": "potential is high.->",
+        "completion": " This clearly resulted in many potential roost features inside the walls themselves all around the building."
+    },
+    {
+        "prompt": "potential is high.->",
+        "completion": " To summarise, the building had a number of potential bat access points."
+    },
+    {
+        "prompt": "potential is high. evidence is none.->",
+        "completion": " Despite the fact that bats could, in theory, gain access into all aspects of the building, no bats or signs were seen anywhere around the inside the building."
+    },
+    {
+        "prompt": "potential is high.->",
+        "completion": " It was clear to see that bats could conceivably gain access to the inside of the building."
+    },
+    {
+        "prompt": "roof_gaps is none. potential is none.->",
+        "completion": " The roof ridge was well sealed with no gaps beneath the ridge tiles and no PRFs or roosting potential."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_condition is good. roof_gaps is none. potential is none.->",
+        "completion": " The roof pitches were in good condition with no apparent gaps, slipped cracked or missing tiles or other Potential Roost Features (PRFs) or significant opportunities for roosting or access to the internal space; a light moss covering across the north facing pitch effectively sealed any potential gaps."
+    },
+    {
+        "prompt": "wall_condition is good. wall_cracks is none. potential is none.->",
+        "completion": " The external walls were intact with no missing or cracked mortar apparent and offered no roosting opportunities."
+    },
+    {
+        "prompt": "roof_material is slate tiles. condition is good.->",
+        "completion": " The roof comprised of interlocking tiles, which were generally well fitted."
+    },
+    {
+        "prompt": "roof_gaps is some.->",
+        "completion": " However, some gaps were present along the roof where the tiles were uneven and lifted."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " Overall, despite a thorough search no evidence of bats was found on the exterior of the building."
+    },
+    {
+        "prompt": "potential is none. evidence is none. bats is no.->",
+        "completion": " It was therefore concluded that no bats could roost within this roof due to a complete lack of access points, and therefore no PRFs."
+    },
+    {
+        "prompt": "roof_material is slate tiles. roof_condition was relatively good. roof_gaps is few.->",
+        "completion": " The building had a slate roof which was in relatively good condition for the most part, with relatively few slipped or slightly lifted slate."
+    },
+    {
+        "prompt": "potential is medium. roof_gapas is some.->",
+        "completion": " The ridge tiles did however have some areas of missing pointing underneath which could conceivably offer potential access to a possible roost space."
+    },
+    {
+        "prompt": "wall_condtion is good. wall_cracks is none.->",
+        "completion": " All textured outer walls of the building were sealed and in good condition."
+    },
+    {
+        "prompt": "bat_droppings is one. potential is low.->",
+        "completion": " One single bat dropping was identified on the northern elevation, however, no clear PRF was identified in the immediate vicinity of this evidence."
+    },
+    {
+        "prompt": "roof_material is slate tiles. roof_condition is relatively good. roof_gaps is some.->",
+        "completion": " The building had a slate roof which was in relatively good condition for the most part, with relatively few slipped or slightly lifted slates."
+    },
+    {
+        "prompt": "potential is possible.->",
+        "completion": " These could conceivably provide access to bats."
+    },
+    {
+        "prompt": "roof_gaps is clear. potential is high.->",
+        "completion": " There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "prompt": "wall_material is stone. wall_condition is good. wall_cracks is none. potential is none.->",
+        "completion": " Much of the pointing amongst the external stone walls was in good order offering no possible roost spaces here."
+    },
+    {
+        "prompt": "bat_droppings is none. evidence is none.->",
+        "completion": " Thorough inspection of the external features identified no bat droppings, or other such signs were identified anywhere around the building at all."
+    },
+    {
+        "prompt": "potential is some. roof_gaps is some.->",
+        "completion": " However, it was considered that there were potential bat roosts underneath the slates and atop the walls."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " No evidence was recorded anywhere inside or outside of the buildings."
+    },
+    {
+        "prompt": "roof_condition is good. roof_material is slate tiles.->",
+        "completion": " The roof was in good condition and was constructed from overlapping tiles."
+    },
+    {
+        "prompt": "roof_condition is good. roof_gaps is none. roof_material is slate tiles.->",
+        "completion": " Close inspection showed that there were no gaps under ridge tiles or overlapping tiles."
+    },
+    {
+        "prompt": "potential is none.->",
+        "completion": " It was concluded that the main body of the roof offered no bat roosting potential."
+    },
+    {
+        "prompt": "building_type is garage. wall_material is stone and brick. roof_form is flat. roof_material is concrete. roof.->",
+        "completion": " Garage was a stone and brick-built structure with a flat concrete roof."
+    },
+    {
+        "prompt": "walls_gaps is significant.->",
+        "completion": " Although generally intact, there were significant gaps throughout the building."
+    },
+    {
+        "prompt": "roof_gap is some. potential is medium.->",
+        "completion": " The single slab roof at the front of the garage was intact but there were gaps around the slab that offered roosting potential and access to the internal space of the garage."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_gaps is numerous. potential is significant.->",
+        "completion": " To the rear of the garage, the pitched roof had numerous gaps beneath the overlapping tiles that offered significant roosting opportunities."
+    },
+    {
+        "prompt": "building_type is garage. wall_cracks is numerous. wall_condition is bad.->",
+        "completion": " The walls of Garage were generally intact although there were numerous gaps between bricks and stones where the mortar was missing."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " However, no evidence of current or historic bat use was found."
+    },
+    {
+        "prompt": "building_type is shed. wall_material is stone. roof_form is pitched. roof_material is slate tiles.->",
+        "completion": " The stone shed was a small structure with a pitched roof of slate tiles."
+    },
+    {
+        "prompt": "roof_condition is intact. roof_gaps is some. potential is some.->",
+        "completion": " Externally, the roof was found to be intact although there were gaps beneath tiles which offered roosting potential and access to the internal space."
+    },
+    {
+        "prompt": "wall_material is stone. wall_cracks is numerous. potential is some.->",
+        "completion": " Numerous gaps were noted in the verges and the stonework on the shed that offered roosting potential and access to the internal space."
+    },
+    {
+        "prompt": "wall_material is brick. roof_material is slate tiles. roof_form is pitched.->",
+        "completion": " They were constructed from red brick with overlapping tile on pitched roofs."
+    },
+    {
+        "prompt": "roof_material is cement tiles. roof_form is pitched.->",
+        "completion": " The roofs were pitched and of overlapping asbestos cement tiles."
+    },
+    {
+        "prompt": "roof_condition is satisfactory. roof_gaps is some.->",
+        "completion": " Whilst the condition of the roofs was satisfactory, there were some gaps under the ridge tiles and some slipped tiles."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " The external walls of the two halls were examined and there was no indication of bat activity."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " A thorough and comprehensive search of the ground and flat surfaces around the halls found no evidence of bat activity."
+    },
+    {
+        "prompt": "potential is some.->",
+        "completion": " Overall, it was concluded that a number of the external aspects of the buildings which offered some roosting potential for bats, with gaps in the soffits and under the ridge tiles."
+    },
+    {
+        "prompt": "wall_condition is good.->",
+        "completion": " The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "prompt": "activity is none.->",
+        "completion": " The external walls were examined and no indication of bat activity."
+    },
+    {
+        "prompt": "walls_cracks is some. bat_droppings is some.->",
+        "completion": " This was evident due to droppings at these gaps."
+    },
+    {
+        "prompt": "roof_gaps is one. potential is some.->",
+        "completion": " A gap in the ceiling of one of these rooms suggested a potential access point."
+    },
+    {
+        "prompt": "building_type is barn. wall_material is brick. roof_form is pitched. roof_material is corrugated sheets.->",
+        "completion": " The barns were brick-built structures, with pitched roof covered with corrugated sheets."
+    },
+    {
+        "prompt": "building_type is barn. wall_condition is reasonable. wall_cracks is some.->",
+        "completion": " Barns were in reasonable condition although gaps and holes in the brickwork were apparent."
+    },
+    {
+        "prompt": "roof_condition is fair. roof_material is corrugated sheets.->",
+        "completion": " The roofs were in fair condition and constructed from corrugated sheets throughout."
+    },
+    {
+        "prompt": "roof_condition is intact. roof_gaps is apparent. potential is some.->",
+        "completion": " Whilst the roofs were generally intact, gaps under the corrugated roof edges were apparent, these offered roosting potential and access to the internal voids."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " Finally the flat surfaces around the building were thoroughly and systematically searched for evidence of bat activity, but none was found."
+    },
+    {
+        "prompt": "bat_droppings is numerous.->",
+        "completion": " A number of bat droppings were found."
+    },
+    {
+        "prompt": "evidence is some. bat_droppings is some.->",
+        "completion": " Evidence of bat use, in the form of droppings, was found externally."
+    },
+    {
+        "prompt": "building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none.->",
+        "completion": " The farmhouse was in good condition with no significant structural issues such as cracks in the walls and gaps in the roof."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good.->",
+        "completion": " The multi-pitched roof was in good condition and was constructed from a mix of overlapping cement and slate tiles and corrugated sheets."
+    },
+    {
+        "prompt": "roof_gaps is some.->",
+        "completion": " Here, inspection found that there were gaps under the overlapping tiles but the corrugated sheets were intact."
+    },
+    {
+        "prompt": "potential is some.->",
+        "completion": " It was concluded that the main body of the roof offered roosting potential and access to the internal storage spaces at the rear of the property."
+    },
+    {
+        "prompt": "roof_material is corrugated sheets. roof_gaps is apparent. potential is some.->",
+        "completion": " Gaps under the corrugated roof edges of the large storage areas to the rear were apparent, these offered roosting potential and further access to the internal voids."
+    },
+    {
+        "prompt": "building_type is farmhouse. potential is present. roof_gaps is some. roof_material is tiles.->",
+        "completion": " In summary, the Farmhouse had a number of Potential Roost Features in the form of gaps beneath the tiles and in the verges as well as gaps in the mortar of the internal walls of the large storage space."
+    },
+    {
+        "prompt": "evidence is some. bat_droppings is some.->",
+        "completion": " Evidence of bat use, in the form of droppings, was found."
+    },
+    {
+        "prompt": "building_type is barn. wall_material is brick. roof_form is pitched. roof_material is slate tiles and corrugated sheets.->",
+        "completion": " The Barn was a brick-built structure, with pitched roof of slate tiles and corrugated sheets."
+    },
+    {
+        "prompt": "building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some.->",
+        "completion": " The Barn was in reasonable condition with some minor structural issues that included cracks in the walls and gaps in the roof."
+    },
+    {
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets.->",
+        "completion": " The roof was in fair condition and was constructed from overlapping tiles and corrugated sheets."
+    },
+    {
+        "prompt": "roof_gaps is some.->",
+        "completion": " Close inspection found that there were some gaps under the ridge and overlapping tiles but the corrugated sheets were intact."
+    },
+    {
+        "prompt": "potential is some. building_type is barn.->",
+        "completion": " It was concluded that the main body of the roof offered roosting potential and access to the internal space of the Barn."
+    },
+    {
+        "prompt": "roof_material is corrugated sheets. roof_gaps is apparent. potential is some.->",
+        "completion": " Gaps under the corrugated roof edges were apparent, these offered roosting potential and further access to the internal voids."
+    },
+    {
+        "prompt": "walls_cracks is some. potential is some.->",
+        "completion": " The walls were generally intact although putlock/ventilation holes and cracks were apparent that offered roosting potential."
+    },
+    {
+        "prompt": "bat_droppings is found.->",
+        "completion": " The walls and flat surfaces around the building were thoroughly and systematically searched for evidence of bat activity and a dropping was found."
+    },
+    {
+        "prompt": "bat_droppings is numerous.->",
+        "completion": " A number of individual bat droppings were found."
+    },
+    {
+        "prompt": "building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some.->",
+        "completion": " In summary, The Barn had a number of Potential Roost Features in the form of gaps beneath the tiles and between the brickwork of the building and it was considered to provide moderate opportunity for roosting bats."
+    },
+    {
+        "prompt": "evidence is some. bat_droppings is some.->",
+        "completion": " Evidence of bat use, in the form of droppings, was found externally and internally."
+    },
+    {
+        "prompt": "roof_material is overlapping sheets. roof_condition is intact. roof_gaps is large.->",
+        "completion": " The roof of overlapping sheets was generally intact although gaps under the ridge line and large holes were apparent."
+    },
+    {
+        "prompt": "potential is clear.->",
+        "completion": " It was clear that bats might conceivably be able to enter the building via these routes."
+    },
+    {
+        "prompt": "wall_condition is intact. potential is none.->",
+        "completion": " The external walls were intact with no opportunities for bats to access the internal spaces of the building."
+    },
+    {
+        "prompt": "potential is negligible.->",
+        "completion": " Overall it was concluded that the building had negligible roosting potential."
+    },
+    {
+        "prompt": "bats is none.->",
+        "completion": " It was concluded that bats were not roosting in the building and no further surveys were required."
+    },
+    {
+        "prompt": "roof_form is pitched. building_type is house. roof_material is stone tiles. roof_condition is good. roof_gaps is none.->",
+        "completion": " The pitched roof of the house was constructed from interlocking roofing stone roofing tiles and was intact with no missing, slipped or cracked tiles."
+    },
+    {
+        "prompt": "roof_material is slate tiles. roof_gaps is none. potential is none. evidence is none.->",
+        "completion": " The tiles overlapped with no gaps or slipped tiles, offering no Potential Roost Features (PRFs) and showed no evidence of bat activity."
+    },
+    {
+        "prompt": "building_type is house. wall_condition is good. wall_cracks is none. roof_gaps is none.->",
+        "completion": " The house was in good condition with no significant structural issues such as cracks in the walls and gaps in the roof."
+    },
+    {
+        "prompt": "roof_form is good. roof_material is cement tiles.->",
+        "completion": " The pitched roof was in good condition and was constructed from overlapping cement tiles."
+    },
+    {
+        "prompt": "potential is some.->",
+        "completion": " It was concluded that the main body of the roof offered roosting potential and access to the internal spaces of the property."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " The walls and flat surfaces around the building were thoroughly and systematically searched for evidence of bat activity; the rough surfaces provided an excellent substrate for droppings to adhere to and these would have easily been observed, however no signs of bats were discovered."
+    },
+    {
+        "prompt": "evidence is none.->",
+        "completion": " However, no evidence of bat activity was found externally or internally."
+    },
+    {
+        "prompt": "buildings is numerous. wall_material is brick and blockwood and wood and corrugated sheeting. roof_material is tiles, wood and corrugated sheets. roof_form is pitched.->",
+        "completion": " The buildings were variously of corrugated sheeting, brick, blockwork and wood, with pitched roofs of tiles, wood or corrugated sheets."
+    },
+    {
+        "prompt": "roof_material is corrugated sheets. potential is none.->",
+        "completion": " The corrugated sheet roofing offered no Potential Roost Features (PRFs)."
+    },
+    {
+        "prompt": "roof_material is slate tiles. roof_gaps is too small. potential is none.->",
+        "completion": " Building had a slate roof but the gaps between the slates were so small that it was considered to offer no roosting opportunities."
+    },
+    {
+        "prompt": "building_type is shed. wall_condition is wood. wall_conditon is poor.->",
+        "completion": " However, the wooden sheds were in poor condition."
+    },
+    {
+        "prompt": "wall_gaps is many. potential is possible.->",
+        "completion": " Entry for bats to potentially roosts would have bene readily possible through many opening and gaps."
+    },
+    {
+        "prompt": "evidence is none. buildings is numerous.->",
+        "completion": " No evidence for the use of the Site by bats was found in any of the buildings."
+    },
+    {
+        "prompt": "roof_condition is excellent. building_type is house. roof_material is slate tiles. roof_gaps is none.->",
+        "completion": " The roof of the house was in excellent condition, it had overlapping tiles which were intact and there were no slipped or missing tiles."
+    },
+    {
+        "prompt": "roof_material is slate tiles. roof_gaps is none. potential is none.->",
+        "completion": " The tiles were tightly fitted and there were no gaps under tiles so no Potential Roost Features (PRfs) were present."
+    },
+    {
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none.->",
+        "completion": " Similarly, the walls were intact with no opportunities for bats to access the internal spaces of the building."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_material is concrete tiles.->",
+        "completion": " The roofs were pitched and the covering was of interlocking concrete tiles throughout."
+    },
+    {
+        "prompt": "wall_material is brick and sandstone blocks. wall_condtion is good. wall_cracks is some.->",
+        "completion": " The walls, of red brick topped with sandstone blocks, were in good condition although there were a number of gaps in the pointing."
+    },
+    {
+        "prompt": "potential is none. evidence is none.->",
+        "completion": " In summary, the buildings had no obvious Potential Roost Features, and no signs of bat activity were observed around the exterior of the building."
+    },
+    {
+        "prompt": "bat_droppings is none.->",
+        "completion": " The inspection began by checking the exterior of the building for signs of bats such as droppings, however none were discovered."
+    },
+    {
+        "prompt": "roof_form is pitched. roof_material is tiles. roof_condition is good. roof_gaps is none.->",
+        "completion": " The roof of the property was pitched with tiles that were in good order and with no suitable gaps that could facilitate bat access."
+    },
+    {
+        "prompt": "bat is found. species is brown long eared bat (Plecotus auritus). evidence is some.->",
+        "completion": " A brown long eared bat (Plecotus auritus) was identified roosting in the loft."
+    },
+    {
+        "prompt": "potential is high. bat_droppings is found.->",
+        "completion": " The roof void and the loft contained numerous Potential Roost Features and droppings which suggested that bats were used the space for roosting."
+    }
+]

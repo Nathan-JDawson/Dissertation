@@ -1,0 +1,20 @@
+roof_material is slate. ->
+roof_material is slate. roof_form is pitched. roof_condition is good. potential is none. ->
+wall_material is brick. ->
+wall_material is brick. wall_condition is bad. wall_gaps is some. ->
+roof_material is slate. roof_form is pitched. roof_condition is good. wall_material is brick. wall_condition is bad. wall_gaps is some. ->
+building_type is shed. ->
+building_type is shed. wall_material is concrete. ->
+evidence is some. ->
+conclusion. potential is none. wall_condition is good. roof_condition is good. ->
+summary. potential is some. wall_condition is bad. roof_condition is bad. ->
+roof_material is glass. ->
+roof_material is wood. roof_form is flat. roof_condition is okay. potential is none. ->
+wall_material is timber. ->
+wall_material is tiles. wall_condition is good. wall_gaps is none. ->
+roof_material is concrete. roof_form is hipped. roof_condition is bad. wall_material is glass. wall_condition is good. wall_gaps is none. ->
+building_type is shop. ->
+building_type is mansion. wall_material is slate. ->
+evidence is lots. ->
+conclusion. potential is high. wall_condition is bad. roof_condition is bad. ->
+summary. potential is none. wall_condition is good. roof_condition is good. ->

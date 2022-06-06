@@ -1,0 +1,822 @@
+[
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " The house was a pitched roof building with slate tiles for the roof. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " The building was pitched and had a slate roof. The external walls were of timber slates, which appeared to be in good condition with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " The house had a pitched roof with slate tiles. A thorough search of the ground and flat surfaces around the building (including behind dormers, along walls and in between buildings) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " The house was a pitched roof with interlocking tiles which were of the slate type. There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The house was a pitched roof building with slate tiles. Although generally intact, there were significant gaps throughout the building."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The building was pitched and had a slate roof. The external walls were in good condition with no gaps or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The house was pitched roof and consisted of slate tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The house was a pitched roof structure with interlocking tiles that were fitted into the gaps between them. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The general condition of the building was excellent with no missing tiles or cracks in the concrete walls or internal structures."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The general condition of the building was excellent with no missing tiles or cracks in the concrete walls or internal structures."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The general condition of the building was excellent with no missing tiles or cracks in the concrete walls and internal interlocking structures such as doors and windows."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " No evidence of bat activity was found. The general condition of the building was excellent with no missing tiles or cracks in the concrete walls or internal structures."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " However, no evidence of current or historic bat use was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " However, no evidence of current or historic bat use was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " However, no evidence of current or historic bat use was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " However, no evidence of current or historic bat use was found. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "potential is low. evidence is none. ->",
+        "completion": " A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "potential is low. evidence is none. ->",
+        "completion": " The potential for a fire was low. The evidence of no wood in the building included: - A small collection of discarded items inside the building (including books and papers) on floor level; - Small piles of discarded clothing, including underwear and shoes; - A large pile or two pieces of timber missing from one end wall that appeared to have been used as an access point."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "potential is low. evidence is none. ->",
+        "completion": " A number of small cracks were apparent in the mortar."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "potential is low. evidence is none. ->",
+        "completion": " The building had a number of small gaps and cracks in the mortar which offered roosting potential."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " However, the building was considered to have negligible bat roosting potential. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles. The general condition of the building was good with no significant roosting issues such as small droppings inside walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The building had a number of potential bat access points. Although generally intact, there were significant gaps throughout the building."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or missing tiles. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or cracks. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber.[1]"
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " However, the building was considered to have negligible bat roosting potential. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. A thorough and comprehensive search of the ground and flat surfaces around the building (including garage roofs and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles. The general condition of the building was good with no significant issues such as cracks and dust pockets within the walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " No potential roost features were identified. A thorough and comprehensive search of the ground, flat surfaces and walls (including dormers to provide ventilation) found no evidence of bat activity such as discarded prey items or droppings. The roof was in excellent condition with interlocking concrete tiles which provided a solid base for the internal structures to sit on. There was a clear gap here too so this should be closed immediately - these comprised small gaps throughout the building."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. A thorough search of all internal areas (including cupboards) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " However, no potential roost features present. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered negligible. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside some unused rooms on either side of this room which were empty except for an ampullate door that had been left open to allow fresh air into the building from outside The external walls were examined and no indication there was any bats in THE"
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->",
+        "completion": " The building had a number of potential bat access points. These were clear and offered no roosting opportunities."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. ->",
+        "completion": " The brickwork was in good condition with no cracks or missing bricks. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. ->",
+        "completion": " The brickwork was in good condition with no cracks or gaps."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. ->",
+        "completion": " The external walls were examined and no indication of bat activity was found."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. ->",
+        "completion": " The external walls were in good condition with no gaps or missing mortar. This comprised a small collection of bristle on the floor."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The concrete shed was in good condition with no missing or cracked bricks or cracks in the sandstone. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside the building on top of some boxes. Small gaps were apparent in gaps in mortar between stones showing through to internal spaces within walls ."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The building was in good condition with no structural issues. The general condition of the building was considered good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The shed was in good condition with a concrete roof and had no structural issues. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The shed was a small structure, but it had no structural issues such as cracks in the walls and holes in the roof. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " Small gaps were apparent in the mortar of some stones, but generally there was a good condition throughout. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The external walls were in good condition with no cracks or gaps. The general appearance of the building was satisfactory with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The external walls were examined and no indication of bat activity. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The stone walls were in good condition with no missing bricks or cracks in the sandstone. The general condition of the building was good with no missing bricks or cracks in the sandstone."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The pitched and hipped roof was in good condition with no gaps or missing tiles. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was pitched and hipped. The general condition of the building was satisfactory with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The pitched roof was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_material is slate tiles. condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof was of slate tiles and the general condition of the building was good with no missing bricks or cracks in the sandstone or timber. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_material is slate tiles. condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no missing tiles or cracks. The general condition of the building was good with no gaps nor significant roosting issues within walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_material is slate tiles. condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_material is slate tiles. condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with interlocking tiles which were intact and had no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "conclusion. potential is none. evidence is none. bats is no. evidence is none. ->",
+        "completion": " The building was thoroughly and systematically searched for evidence of bat activity, but none were found. Roosting potential was considered None. There was no indication of bat activity anywhere in the building."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "conclusion. potential is none. evidence is none. bats is no. evidence is none. ->",
+        "completion": " No evidence of bats was found."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "conclusion. potential is none. evidence is none. bats is no. evidence is none. ->",
+        "completion": " No evidence of bat activity was found."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "conclusion. potential is none. evidence is none. bats is no. evidence is none. ->",
+        "completion": " No evidence was found for bats in the building. A thorough and comprehensive search of the ground and flat surfaces around the building (including a garage roof above which roosting potential could be seen) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "potential is some. roof_gapas is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " Potential roosting sites were identified under the tiles and gaps in the mortar. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "potential is some. roof_gapas is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or cracks. The general appearance of the building was satisfactory with no missing bricks or cracks in sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "potential is some. roof_gapas is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in a potential bat access point, with gaps throughout the building. The general condition of thebuilding was good with no missing bricks or cracks inthe sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "potential is some. roof_gapas is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building had a number of potential bat access points. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "potential is some. roof_gaps is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " Potential roost features were identified, such as gaps under tiles and missing mortar. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "potential is some. roof_gaps is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The potential for bat activity was considered to be minimal. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "potential is some. roof_gaps is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The roof of the building was in a state of potential bats activity, with gaps throughout the structure. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "potential is some. roof_gaps is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " A thorough and comprehensive search of the ground and flat surfaces around the building (including a few small gaps in roof tiles) found no evidence of bat activity such as discarded prey items or droppings. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " However, gaps in the walls and roof offered roosting opportunities for bats to potentially access the internal space. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " The walls were in good condition with no gaps or missing tiles. The roof was excellent and there were no gaps here either."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " The external walls were examined and no indication of gaps or missing tiles. The roof was in excellent condition with interlocking concrete tiles which had a complete gap filled to the top edge with mortar."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->",
+        "completion": " However, there were significant gaps throughout the building."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The pitched roof was constructed with overlapping tiles which did not sit flush. This created gaps and potential access points for bats to roost inside the building. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The pitched roof was generally intact with no gaps or missing bricks. The general condition of the building was good with no significant pockets of roosting activity within the walls and a clear gap here as well."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The pitched roof was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The pitched roof was in generally good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_condition is satisfactory. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no missing tiles or cracks. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_condition is satisfactory. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or cracks. The general condition of the building was satisfactory with no missing bricks or cracks in sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_condition is satisfactory. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_condition is satisfactory. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof was in good condition with no gaps under the tiles and around the vents. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " However, there was a potential roosting site on the flat roof of this building. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside the building on top of some boxes. Small gaps were apparent in gaps in mortar joints throughout these walls due to deterioration through weathering."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The building had a clear roof with no gaps in the sandstone or timber. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The building was in a good state of repair, with no significant structural issues. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The building had a number of small gaps under the slates and on the roof which offered roosting potential. This comprised a small collection of droppings inside the building on the floor. Small gaps were apparent in gaps inthe mortar as it was missing from some ends thereof."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "activity is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The external walls were examined and no indication of bat activity. The general condition of the building was excellent with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "activity is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The roof was in excellent condition with no gaps or missing tiles. The general condition of the building was good with no significant issues such as cracks in the sandstone and timber walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "activity is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "activity is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_gaps is one. potential is some. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " A gap under the ridge tiles was apparent. This comprised a small collection of droppings inside the building on the floor. Small gaps were apparent in gaps in the mortar. Although generally intact, there were significant gaps throughout the building structure due to missing and cracked bricks and lack of sealing offered by flashing or overlapping roof tiles which therefore presented potential access points for bats to roosts internally as well as externally."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_gaps is one. potential is some. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The roof of the building had gaps in which potential bat roosts could be found. The general condition of the building was good with no significant internal or external cracks or pockets."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_gaps is one. potential is some. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " The roof of the building was in a gap, with gaps underneath. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_gaps is one. potential is some. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->",
+        "completion": " A gap in the roof of one of these rooms was found, which offered a potential roost for bats. This comprised a small collection of droppings inside the building on the floor. Small gaps were apparent in gaps in the mortar."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The farmhouse was in good condition with no significant structural issues such as cracks in the walls and gaps under tiles. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was in good condition with no missing bricks or cracks in the walls. The general condition of the building was good with no gaps in the sandstone or timber nor any significant roving on the inside (ills)."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The farmhouse was in good condition with no missing or cracked bricks and a clean, intact roof. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The farmhouse was in good condition with no significant structural issues such as cracks in the walls and gaps between them. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The pitched roof was constructed from cement and slate tiles with corrugated sheets. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The pitched roof was in good condition with no gaps or cracks. The general state of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The pitched roof of the building was constructed from cement and slate tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The pitched roof was in good condition with interlocking tiles which were intact and had no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " Barns were in reasonable condition although gaps and holes in the walls offered roosting potential. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The general condition of the building was good with no missing bricks or cracks in the sandstone or timber. The walls were examined and no indication that bats had been present within them."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The barn was in good condition with no missing or cracked walls and a large gap here as the boarding did not sit flush against the stone. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " Barns were in reasonable condition although gaps and holes in the brickwork made it appear that these structures also had a roof structure. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->",
+        "completion": " The roof of the building was in generally good condition although there were gaps under some tiles which offered roosting potential for bats. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside the building on top of some boxes."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->",
+        "completion": " The roof of the building was in fair condition with no gaps or missing tiles. The general appearance of the building was good with no significant bat activity within the structure."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->",
+        "completion": " The roof of the building was in fair condition with a number of small gaps throughout. A thorough and comprehensive search of all internal and external features (roof, walls, floors) found no evidence for bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->",
+        "completion": " The roof was in fair condition with interlocking tiles and corrugated sheets. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof above which no bats could fall) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside each room on the floor."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof of the building was in generally good condition although there were gaps under some tiles. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside the building on top of some boxes. Small cracks could be seen in gaps in mortar between stones throughout this structure suggesting that bats could potentially access these spaces however none were large enough to provide roosting opportunities for bats."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof was in good condition with no missing tiles or corregated sheets. The general appearance of the building was fair with a small collection of droppings inside on the floor and walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof of the building was in fair condition with intact slate tiles and corregated sheets. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof was in fair condition with interlocking tiles and corrugated sheets. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->",
+        "completion": " Small gaps were apparent under the ridge tiles. The roof of the building was in excellent condition with interlocking concrete tiles which were intact and had no gaps or missing tiles. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->",
+        "completion": " The roof of the building was in excellent condition with no gaps or missing tiles. The general condition of the building was good with no gaps or missing tiles."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->",
+        "completion": " The roof of the building was in excellent condition with a number of gaps throughout. The general condition and features were good with no missing tiles or cracks in any material on the external walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->",
+        "completion": " A number of gaps were apparent under the tiles, these generally consisted of small gaps between tiles. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and topsprings) found no evidence for bat activity such as discarded prey items or droppings."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "conclusion. potential is some. building_type is barn. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The barns were generally intact with no missing bricks or cracks in the sandstone. The general condition of the building was good with no missing bricks or cracks in the sandstones, although there were some gaps throughout the building. There was clearly a potential roosting site here due to an overlapping of boarding which offered access into Potential Roost Features (PRFs) within these spaces and so they were considered as PRFs and therefore bat activity could have been present."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "conclusion. potential is some. building_type is barn. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was in a barn and had no evidence of bat activity. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "conclusion. potential is some. building_type is barn. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The barn was a small structure, with no evidence of bat activity such as discarded prey items or droppings. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "conclusion. potential is some. building_type is barn. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The barns were in good condition with no significant structural issues such as cracks and gaps in the mortar. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The corrugated roofing was not flush with the walls and gaps were apparent. Although generally intact, there were significant gaps throughout the building. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The roof of the building was corrugated and had gaps in both ends. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The corrugated roofing was apparent gaps in the mortar. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The corrugated roof was in good condition with no gaps or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " The roof of the building was in excellent condition with no missing tiles or gaps. The general condition of the building was good with no missing bricks or cracks in sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " The bat roosting potential was considered borderline. There were clear gaps here as the boarding did not sit flush against the stone."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->",
+        "completion": " A number of individual bat droppings were found. This comprised a small collection of discarded items such as clothing and toys inside the building on the floor."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " Barns were generally well-maintained and had no significant structural issues such as cracks in the walls or missing tiles. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The general condition of the building was good with no missing bricks or cracks in the sandstone or timber. The external walls were examined and found to be intact although some gaps existed within the sandstone on which bats might have settled onto the floor."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The barn was a potential roosting site for bats as it had no gaps in the roof. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " Barns were in use, but no significant structural issues such as cracks and holes in the walls were apparent. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The conclusion was that there is some potential for bats to use the building externally. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The conclusion was that the potential for bat activity is considered to be some. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside the building on top of shelves. Small gaps were apparent in gaps in mortar between stones and cracks in sandstone or timber where it had been stressed through movement by bats. The general condition of the building was good with no missing bricks or cracks in sandstone or timber, although there were some smaller gaps around fittings such as vents and lockers which could have allowed access for bats if they had been present at this point (see below). The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was in good condition with no evidence of bat activity such as discarded prey items or droppings on the walls. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was in good condition with no evidence of bat activity such as discarded prey items or droppings on the walls. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was in good condition with no missing or cracked bricks and a thorough search of the ground and flat surfaces around the building (including behind furniture) found no evidence of bat activity such as discarded prey items or droppings. The general condition of thebuilding was good with few gaps here as well as in pockets throughout the building."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was in good condition with no missing or cracked bricks and a thorough search of the ground, flat surfaces and walls (including gaps between brick-topped roofs) found no evidence of bat activity such as discarded prey items or droppings. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building had a number of small gaps under the corrugated roof edges and around the openings. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->",
+        "completion": " The building was considered to have a number of potential bat access points. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof was comprised of interlocking slate tiles which were flush and offered no PRFs. Although generally intact, there were gaps throughout the building due to missing mortar and cracks in the sandstone walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof of the building was in good condition with no gaps or missing tiles. The general appearance of the building was satisfactory with no significant bat activity inside or on the outside walls."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof of the building was in a state of extensive gaps and this also offered potential roosting areas for bats to use. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->",
+        "completion": " The roof of the building was in good condition with interlocking tiles which were intact and had no gaps or missing tiles. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The wooden shed was in poor condition with gaps and holes throughout the structure. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The building was in poor condition with a large collection of droppings inside the building. The general condition of the walls and roof was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The shed was in a poor condition with rotted walls and gaps throughout the building. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->",
+        "completion": " The shed was in poor condition with cracks and holes throughout the building. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The intact walls were examined and no indication of bat activity. A thorough and comprehensive search of the ground and flat surfaces around the building (including the garage roof and tops of dormers) found no evidence of bat activity such as discarded prey items or droppings. Roosting potential was considered borderline. There was a clear gap here as the boarding did not sit flush against the stone. This comprised a small collection of droppings inside the building on top of some boxes. Small gaps were apparent in gaps in mortar between stones showing missing bricks beneath. Although generally intact, there were significant gaps throughout the building due to lack of adherence to brickwork or cracks in sandstone slates/stones allowing access into voids within individual rooms which offered roosting potential for bats but also posed a risk to their health through exposure to Victorian materials such as timber beams with iron cramps that could potentially fall onto them if dislodged by bats seeking access inside via these spaces without adequate clearance underneath.."
+    },
+    {
+        "model": "davinci:ft-personal:new-davinci-200-2022-06-01-20-35-34",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The intact walls were examined and no indication of bat activity. Although generally intact, there were significant gaps throughout the building. The external walls were examined and no indication of bat activity."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The walls were intact and the cracks in the wood no longer presented a potential bat issue. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-50-2022-06-01-20-10-25",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The walls were intact and the cracks in the wood no longer presented a potential bat issue. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The external walls were intact and no gaps or cracks in the mortar was apparent. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-100-2022-06-01-20-18-35",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The external walls were intact and no significant gaps or missing bricks could be seen. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The external walls were intact and had no gaps or missing mortar. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    },
+    {
+        "model": "ada:ft-personal:new-ada-200-2022-06-01-20-27-04",
+        "prompt": "wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->",
+        "completion": " The external walls were intact and had no gaps or missing mortar. The general condition of the building was good with no missing bricks or cracks in the sandstone or timber."
+    }
+]

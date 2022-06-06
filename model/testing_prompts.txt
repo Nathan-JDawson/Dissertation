@@ -1,0 +1,444 @@
+roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is none. potential is none. roof_material is tiles. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is none. potential is none. roof_material is tiles. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is brick. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is cladding. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+evidence is none. potential is negligible. potential is borderline. roof_gaps is clear. ->
+evidence is none. potential is negligible. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_condition is very good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is garage. roof_form is pitched. roof_condition is excellent. roof_material is overlapping tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is garage. roof_form is pitched. roof_condition is excellent. roof_material is overlapping tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is garage. roof_form is pitched. roof_condition is excellent. roof_material is overlapping tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_gaps is none. potential is none. roof_material is tiles. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+conclusion. building_type is garage. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+conclusion. building_type is garage. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. ->
+wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->
+building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. ->
+building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is house. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is conservatory. potential is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+building_type is conservatory. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is none. wall_cracks is none. potential is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is slates. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is tiles. roof_gaps is small. potential is some. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_material is tiles. roof_gaps is small. potential is some. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_material is tiles. roof_gaps is small. potential is some. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is hipped. roof_condition is good. evidence is none. ->
+roof_material is slates. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is slates. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is tiles. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is tiles. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is low. evidence is none. ->
+potential is low. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is low. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is low. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is low. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is negligible. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is slate. roof_condition is good. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_material is slate. roof_condition is good. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is slate. roof_condition is good. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. ->
+roof_gaps is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. ->
+roof_gaps is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_cracks is many. potential is some. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_cracks is many. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+wall_cracks is many. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. ->
+wall_cracks is many. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+bat_droppings is some. evidence is some. potential is some. ->
+bat_droppings is some. evidence is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+bat_droppings is some. evidence is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is small. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+bat_droppings is small. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is brick. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_material is brick. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_cracks is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->
+wall_cracks is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_cracks is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+wall_cracks is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. ->
+wall_cracks is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_gaps is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_gaps is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_gaps is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is borderline. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is some. roof_material is slate tiles. evidence is none. evidence is none. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->
+potential is negligible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched. roof_condition is good. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_form is pitched. roof_condition is good. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched. roof_condition is good. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is brick. wall_condition is good. poterntial is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+wall_material is brick. wall_condition is good. poterntial is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+wall_material is brick. wall_condition is good. poterntial is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. ->
+wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. ->
+wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_material is brck. wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_condition is good. roof_gaps is none. potential is none. ->
+roof_condition is good. roof_gaps is none. potential is none. evidence is none. ->
+roof_condition is good. roof_gaps is none. potential is none. evidence is none. potential is borderline. ->
+roof_condition is good. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is good. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is flat. building_type is conservatory. roof_confition is good. potential is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+roof_form is flat. building_type is conservatory. roof_confition is good. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is flat. building_type is conservatory. roof_confition is good. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is shed. wall_material is concrete. wall_condition is good. wall_cracks is some. potential is . evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is flat. roof_condition is satisfactory. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_form is flat. roof_condition is satisfactory. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_form is flat. roof_condition is satisfactory. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is flat. roof_condition is satisfactory. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. ->
+wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. ->
+wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. ->
+wall_cracks is some. wall_material is stone. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_condition is good. wall_cracks is none. ->
+roof_material is slate tiles. roof_condition is good. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is slate tiles. roof_condition is good. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. ->
+roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched and hipped. roof_condition is satisfactory. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is flat. roof_condtion is good. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_condition is okay. wall_cracks is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is none. evidence is none. ->
+roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is pitched. roof_material is slate tiles. potential is none. evidence is none. ->
+roof_form is pitched. roof_material is slate tiles. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched. roof_material is slate tiles. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is none. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is stone. roof_form is pitched. roof_material is stone and slate. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_material is stone. roof_form is pitched. roof_material is stone and slate. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_cracks is many. potential is high. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is high. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is high. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+potential is high. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. ->
+potential is high. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is high. evidence is none. evidence is none. ->
+potential is high. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. ->
+potential is high. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is high. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is high. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is none. potential is none. evidence is none. potential is borderline. ->
+roof_form is pitched. roof_condition is good. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_form is pitched. roof_condition is good. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched. roof_condition is good. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->
+roof_material is slate tiles. condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+conclusion. potential is none. evidence is none. bats is no. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. potential is borderline. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. potential is borderline. roof_gaps is clear. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+conclusion. potential is none. evidence is none. bats is no. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is slate tiles. roof_condition was relatively good. roof_gaps is few. ->
+roof_material is slate tiles. roof_condition was relatively good. roof_gaps is few. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is some. roof_gapas is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is some. roof_gapas is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is one. potential is low. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is slate tiles. roof_condition is relatively good. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is possible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+potential is possible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->
+potential is possible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is possible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is possible. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is clear. potential is high. evidence is none. potential is borderline. ->
+roof_gaps is clear. potential is high. evidence is none. potential is borderline. bat_droppings is small. ->
+roof_gaps is clear. potential is high. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. ->
+roof_gaps is clear. potential is high. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_gaps is clear. potential is high. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is stone. wall_condition is good. wall_cracks is none. potential is none. ->
+wall_material is stone. wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_material is stone. wall_condition is good. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is none. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is some. roof_gaps is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is some. roof_gaps is some. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is good. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_condition is good. roof_gaps is none. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is good. roof_gaps is none. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+conclusion. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is garage. wall_material is stone and brick. roof_form is flat. roof_material is concrete. roof. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+building_type is garage. wall_material is stone and brick. roof_form is flat. roof_material is concrete. roof. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is garage. wall_material is stone and brick. roof_form is flat. roof_material is concrete. roof. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is garage. wall_material is stone and brick. roof_form is flat. roof_material is concrete. roof. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+walls_gaps is significant. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. wall_condition is good. activity is none. ->
+roof_gap is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. ->
+roof_gap is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+roof_form is pitched. roof_gaps is numerous. potential is significant. ->
+roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. ->
+roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_form is pitched. roof_gaps is numerous. potential is significant. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is garage. wall_cracks is numerous. wall_condition is bad. evidence is none. potential is borderline. ->
+building_type is garage. wall_cracks is numerous. wall_condition is bad. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is garage. wall_cracks is numerous. wall_condition is bad. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is shed. wall_material is stone. roof_form is pitched. roof_material is slate tiles. evidence is none. ->
+building_type is shed. wall_material is stone. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. ->
+building_type is shed. wall_material is stone. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is shed. wall_material is stone. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is shed. wall_material is stone. roof_form is pitched. roof_material is slate tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is intact. roof_gaps is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_condition is intact. roof_gaps is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_material is stone. wall_cracks is numerous. potential is some. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_material is stone. wall_cracks is numerous. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+wall_material is stone. wall_cracks is numerous. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_material is stone. wall_cracks is numerous. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is brick. roof_material is slate tiles. roof_form is pitched. evidence is none. ->
+wall_material is brick. roof_material is slate tiles. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+wall_material is brick. roof_material is slate tiles. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_material is brick. roof_material is slate tiles. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is cement tiles. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is satisfactory. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+conclusion. potential is some. ->
+conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_condition is good. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+wall_condition is good. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+wall_condition is good. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+wall_condition is good. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+activity is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+walls_cracks is some. bat_droppings is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+walls_cracks is some. bat_droppings is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+walls_cracks is some. bat_droppings is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is one. potential is some. evidence is none. ->
+roof_gaps is one. potential is some. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is barn. wall_material is brick. roof_form is pitched. roof_material is corrugated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is barn. wall_material is brick. roof_form is pitched. roof_material is corrugated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is barn. wall_condition is reasonable. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is fair. roof_material is corrugated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is intact. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is farmhouse. wall_condition is good. roof_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good. ->
+roof_form is pitched. roof_material is cement and slate tiles and corregated sheets. roof_condition is good. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+conclusion. potential is some. evidence is none. ->
+conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is farmhouse. potential is present. roof_gaps is some. roof_material is tiles. ->
+building_type is farmhouse. potential is present. roof_gaps is some. roof_material is tiles. evidence is none. ->
+building_type is farmhouse. potential is present. roof_gaps is some. roof_material is tiles. evidence is none. potential is borderline. ->
+building_type is farmhouse. potential is present. roof_gaps is some. roof_material is tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is barn. wall_material is brick. roof_form is pitched. roof_material is slate tiles and corrugated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is barn. walls_condition is reasonable. wall_cracks is some. roof_gaps is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_condition is fair. roof_material is slate tiles and corregated sheets. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_gaps is some. ->
+roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. ->
+roof_gaps is some. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+conclusion. potential is some. building_type is barn. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. ->
+roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_material is corrugated sheets. roof_gaps is apparent. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+walls_cracks is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+walls_cracks is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+walls_cracks is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+walls_cracks is some. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. ->
+bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+bat_droppings is found. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. ->
+bat_droppings is numerous. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. ->
+building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. ->
+building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is barn. potential is moderate. roof_gaps is some. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is some. bat_droppings is some. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_material is overlapping sheets. roof_condition is intact. roof_gaps is large. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is overlapping sheets. roof_condition is intact. roof_gaps is large. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. ->
+potential is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+potential is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+potential is clear. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_condition is intact. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_condition is intact. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->
+conclusion. potential is negligible. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+conclusion. bats is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_form is pitched. building_type is house. roof_material is stone tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_form is pitched. building_type is house. roof_material is stone tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_form is pitched. building_type is house. roof_material is stone tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is slate tiles. roof_gaps is none. potential is none. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_material is slate tiles. roof_gaps is none. potential is none. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_material is slate tiles. roof_gaps is none. potential is none. evidence is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is house. wall_condition is good. wall_cracks is none. roof_gaps is none. ->
+building_type is house. wall_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. ->
+building_type is house. wall_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+building_type is house. wall_condition is good. wall_cracks is none. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is good. roof_material is cement tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_form is good. roof_material is cement tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+conclusion. potential is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+evidence is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+buildings is numerous. wall_material is brick and blockwood and wood and corrugated sheeting. roof_material is tiles, wood and corrugated sheets. roof_form is pitched. ->
+buildings is numerous. wall_material is brick and blockwood and wood and corrugated sheeting. roof_material is tiles, wood and corrugated sheets. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+buildings is numerous. wall_material is brick and blockwood and wood and corrugated sheeting. roof_material is tiles, wood and corrugated sheets. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+buildings is numerous. wall_material is brick and blockwood and wood and corrugated sheeting. roof_material is tiles, wood and corrugated sheets. roof_form is pitched. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is corrugated sheets. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_material is corrugated sheets. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. ->
+roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. ->
+roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_material is slate tiles. roof_gaps is too small. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. ->
+building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+building_type is shed. wall_condition is wood. wall_conditon is poor. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_gaps is many. potential is possible. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+wall_gaps is many. potential is possible. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. buildings is numerous. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+evidence is none. buildings is numerous. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_condition is excellent. building_type is house. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+roof_condition is excellent. building_type is house. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_condition is excellent. building_type is house. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_condition is excellent. building_type is house. roof_material is slate tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+roof_material is slate tiles. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. ->
+roof_material is slate tiles. roof_gaps is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_condition is intact. wall_cracks is none. potential is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. activity is none. ->
+roof_form is pitched. roof_material is concrete tiles. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+wall_material is brick and sandstone blocks. wall_condtion is good. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+wall_material is brick and sandstone blocks. wall_condtion is good. wall_cracks is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is none. evidence is none. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat_droppings is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. ->
+bat_droppings is none. roof_condition is excellent. roof_material is concrete tiles. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched. roof_material is tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. ->
+roof_form is pitched. roof_material is tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. ->
+roof_form is pitched. roof_material is tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. ->
+roof_form is pitched. roof_material is tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+roof_form is pitched. roof_material is tiles. roof_condition is good. roof_gaps is none. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+bat is found. species is brown long eared bat (Plecotus auritus). evidence is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. ->
+bat is found. species is brown long eared bat (Plecotus auritus). evidence is some. evidence is none. potential is borderline. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->
+potential is high. bat_droppings is found. evidence is none. roof_gaps is clear. ->
+potential is high. bat_droppings is found. evidence is none. roof_gaps is clear. bat_droppings is small. ->
+potential is high. bat_droppings is found. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. ->
+potential is high. bat_droppings is found. evidence is none. roof_gaps is clear. bat_droppings is small. wall_cracks is some. walls_gaps is significant. wall_condition is good. activity is none. ->

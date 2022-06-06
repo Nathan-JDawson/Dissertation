@@ -3,7 +3,7 @@ import random
 from typing import List
 
 lines = []
-with open("combined_prompts_prepared.jsonl", "r") as f:
+with open("traning_prompts_200.jsonl", "r") as f:
     for line in f:
         lines.append(line)
     # endfor
@@ -19,7 +19,7 @@ for num in random_nums:
     random_prompts.append(lines[num])
 # endfor
 
-with open("random_prompts_prepared_" + str(max) + ".jsonl", "w") as f:
+with open("traning_prompts_" + str(max) + ".jsonl", "w") as f:
     for p in random_prompts:
         f.write(p)
     # endfor

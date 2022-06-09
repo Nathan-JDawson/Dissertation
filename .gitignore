@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore example reports folder
 example_reports/
+
+# Config file
+model/main.cfg
